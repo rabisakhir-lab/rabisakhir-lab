@@ -10,10 +10,13 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ## 📂 Projects
 
-
+| Project | Description |
+|---|---|
 | [data-projects](https://github.com/rabisakhir-lab/data-projects) | Data analysis using Python, Pandas and real-world datasets |
 | [python-projects](https://github.com/rabisakhir-lab/python-projects) | Python scripts, data analysis and AI experiments |
 | [sql-projects](https://github.com/rabisakhir-lab/sql-projects) | SQL queries, database analysis and real-world case studies |
